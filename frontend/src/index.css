@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  /* Definimos tu paleta de naturaleza de Canva aquí */
+  --color-bosque: #2d5a27;
+  --color-hoja: #a4c639;
+  --color-tierra: #5d4037;
+  --color-crema: #fdfbf7;
+
+  --radius-organico: 40% 60% 60% 40% / 30% 30% 70% 70%;
+}
+
+body {
+  background-color: var(--color-crema);
+  color: var(--color-tierra);
+}

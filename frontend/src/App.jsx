@@ -18,6 +18,8 @@ import CourseDances from './components/CourseDances';
 import CourseInnerPeace from './components/CourseInnerPeace';
 import RetiroDetail from './components/RetiroDetail';
 import Registration from './components/Registration';
+
+
 import Costs from './components/Costs';
 
 function App() {
